@@ -1,0 +1,18 @@
+<svg width="368" height="336" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+<rect width="100%" height="100%" fill="white"/>
+<polygon stroke="red" points="16,16 352,16 352,320 16,320" fill="none" stroke-width="1" stroke-dasharray="8"/>
+<polygon stroke="black" points="112,16 80,48 16,160 16,192 80,288 112,320 272,320 288,304 352,192 352,160 288,48 256,16" fill="#66CDAA" stroke-width="1" />
+<polygon stroke="black" points="16,160 16,176 16,192 32,208 48,208 64,224 80,224 96,240 80,256 80,272 80,288 96,304 112,320 128,320 144,320 160,304 176,288 192,288 208,304 224,320 240,320 256,320 272,320 288,304 288,288 288,272 288,256 272,240 288,224 304,224 320,208 336,208 352,192 352,176 352,160 336,144 320,128 304,128 288,128 272,112 288,96 288,80 288,64 288,48 272,32 256,16 240,16 224,32 208,48 192,64 176,64 160,48 144,32 128,16 112,16 96,32 80,48 80,64 80,80 96,96 96,112 80,128 64,128 48,128 32,144" fill="yellow" stroke-width="1" />
+<circle cx="112" cy="16" r="2" fill="black" />
+<circle cx="80" cy="48" r="2" fill="black" />
+<circle cx="16" cy="160" r="2" fill="black" />
+<circle cx="16" cy="192" r="2" fill="black" />
+<circle cx="80" cy="288" r="2" fill="black" />
+<circle cx="112" cy="320" r="2" fill="black" />
+<circle cx="272" cy="320" r="2" fill="black" />
+<circle cx="288" cy="304" r="2" fill="black" />
+<circle cx="352" cy="192" r="2" fill="black" />
+<circle cx="352" cy="160" r="2" fill="black" />
+<circle cx="288" cy="48" r="2" fill="black" />
+<circle cx="256" cy="16" r="2" fill="black" />
+</svg>
